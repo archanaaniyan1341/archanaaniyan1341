@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1> I am a 2.3 years experienced Software Engineer with sound knowledge in frontend related technologies.</h1>
+<h1>Experienced Frontend Engineer & Rust enthusiast with a demonstrated history of working in the information technology and services industry. Skilled in JavaScript, React, Angular, Vue.js, Progressive Web App(PWA), SCSS, CSS & HTML.</h1>
 <!--
 **archanaaniyan1341/archanaaniyan1341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
