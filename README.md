@@ -1,9 +1,12 @@
-### Hi there 👋
-**"Hi, I’m Archana Aniyan, a frontend-focused full stack developer with over 4 years of experience building scalable, user-friendly applications. My core expertise is in React.js, where I’ve worked extensively on creating responsive, accessible, and performance-optimized interfaces. I also have hands-on experience with Node.js for backend development, integrating APIs, and working with databases like SQL Server.
+
+
+  ## Hi there 👋
+
+<p>I’m Archana Aniyan, a frontend-focused full stack developer with over 4 years of experience building scalable, user-friendly applications. My core expertise is in React.js, where I’ve worked extensively on creating responsive, accessible, and performance-optimized interfaces. I also have hands-on experience with Node.js for backend development, integrating APIs, and working with databases like SQL Server.
 
 I’ve contributed to large-scale migration projects, transforming legacy systems into modern React and Node.js applications, ensuring maintainability through clean architecture and clear separation of concerns. My approach blends technical precision with a strong focus on UI/UX, ensuring applications are not just functional but also visually engaging.
 
-I’m a continuous learner, adaptable to new technologies, and passionate about delivering high-quality solutions that balance user needs with business goals."**
+I’m a continuous learner, adaptable to new technologies, and passionate about delivering high-quality solutions that balance user needs with business goals.</p>
 <!--
 **archanaaniyan1341/archanaaniyan1341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
